@@ -113,7 +113,3 @@ From July 2020 to July 2021, I worked as a **Senior Algorithm Engineer** in **IA
 + International Journal of Advanced Robotic Systems
 
 + ...
-
-
-
-<a href="https://info.flagcounter.com/bjoL"><img src="https://s01.flagcounter.com/map/bjoL/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
